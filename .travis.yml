@@ -6,7 +6,6 @@
     "mongodb"
   ],
   "script": [
-    "yarn run build",
-    "yarn run test"
+    "npm run build"
 ]
 }
